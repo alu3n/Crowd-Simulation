@@ -2,6 +2,18 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:Debug/Debug.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Solver">
+   </FileRef>
+   <FileRef
+      location = "group:Graph">
+   </FileRef>
+   <FileRef
+      location = "group:Geometry">
+   </FileRef>
+   <FileRef
       location = "group:Topology">
    </FileRef>
 </Workspace>
